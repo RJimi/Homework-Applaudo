@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Applaudo´s Homework</string>
+    <string name="cargando">Base de datos cargando, por favor espere...</string>
+    <string name="api_key">AIzaSyCj5e83PsKS9wOudKoEVJU5rRFaPbc-OUo</string>
+</resources>
